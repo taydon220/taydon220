@@ -1,16 +1,13 @@
-### Hi there 👋
+# **Hi there 👋**
 
-<!--
-**taydon220/taydon220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Taylor. I am a self-taught Python developer working to improve my abilities with a variety of different projects. I'm dedicated to learning, and love using new languages and frameworks to match my project's needs.
 
-Here are some ideas to get you started:
+## Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Solo developer of Spase Bot; A multi-purpose Discord Bot for my Discord server;
+
+🏢 Currently working in enterprise computer hardware in the USA.
+
+⚙️ Skilled with: Python, Git, SQL, Flask, REST API, JSON, HTML, Virtual Computing.
+
+🌱 Learning all about Open Source.
