@@ -6,8 +6,8 @@ My name is Taylor. I am a self-taught Python developer working to improve my abi
 
 ✨ Solo developer of Spase Bot; A multi-purpose Discord Bot for my Discord server;
 
-🏢 Currently working in enterprise computer hardware in the USA.
+🏢 Currently working as a Back-End Software Developer for a wireless telecom.
 
-⚙️ Skilled with: Python, Git, SQL, Flask, REST API, JSON, HTML, Virtual Computing.
+⚙️ Skilled with: Python, PHP, Flask, FastAPI, SQL, Virtual Computing, Version Control.
 
 🌱 Learning all about Open Source.
